@@ -1,0 +1,43 @@
+[{
+  "ind":1,
+  "msgPhoto":"/static/image/1.png",
+  "msgName":"羊羊羊",
+  "msgContent":"你好",
+  "msgDate":"2017-9-23 09:32",
+  "role":"isUser"
+},{
+  "ind":2,
+  "msgPhoto":"/static/image/2.png",
+  "msgName":"李绵绵",
+  "msgContent":"您好",
+  "msgDate":"2017-9-23 09:33",
+  "role":"isService"
+},{
+  "ind":3,
+  "msgPhoto":"/static/image/1.png",
+  "msgName":"羊羊羊",
+  "msgContent":"我想咨询一下你们关于XXX的...",
+  "msgDate":"2017-9-23 09:35",
+  "role":"isUser"
+},{
+  "ind":4,
+  "msgPhoto":"/static/image/2.png",
+  "msgName":"李绵绵",
+  "msgContent":"亲，是这样的",
+  "msgDate":"2017-9-23 09:36",
+  "role":"isService"
+},{
+  "ind":5,
+  "msgPhoto":"/static/image/1.png",
+  "msgName":"羊羊羊",
+  "msgContent":"好的，谢谢",
+  "msgDate":"2017-9-23 09:37",
+  "role":"isUser"
+},{
+  "ind":6,
+  "msgPhoto":"/static/image/2.png",
+  "msgName":"李绵绵",
+  "msgContent":"不用谢，亲",
+  "msgDate":"2017-9-23 09:38",
+  "role":"isService"
+}]

@@ -1,0 +1,50 @@
+/*header*/
+#headerTop {
+  height: 0.44rem;
+  width: 100%;
+  background: #f28416;
+  text-align: center;
+  color: #ffffff;
+  line-height: 44px;
+  font-size: 0.2rem; }
+  #headerTop .goodWord {
+    margin-left: 0.1rem;
+    font-size: 0.18rem;
+    font-weight: 600; }
+
+/*footer*/
+.ulNav {
+  width: 100%;
+  height: 0.44rem;
+  display: flex;
+  font-size: 0.12rem;
+  text-align: center;
+  border-top: 1px solid #f28416; }
+  .ulNav li {
+    flex: 1;
+    background: #ffffff;
+    padding-top: 0.04rem;
+    border-right: 1px solid #f28416; }
+    .ulNav li .linkFont {
+      color: #f28416;
+      display: block; }
+      .ulNav li .linkFont .icon {
+        font-size: 0.2rem;
+        font-weight: 700; }
+  .ulNav li:nth-last-of-type(1) {
+    border-right: none; }
+  .ulNav .active {
+    background: #f28416; }
+    .ulNav .active .linkFont {
+      color: #ffffff; }
+
+.mainView {
+  height: 100%;
+  font-size: 0.14rem;
+  display: flex;
+  flex-direction: column; }
+  .mainView .main {
+    flex: 1;
+    overflow-y: hidden; }
+
+/*# sourceMappingURL=mainStyle.css.map */

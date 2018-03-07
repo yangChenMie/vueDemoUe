@@ -1,0 +1,69 @@
+@import "mixin";
+/*header*/
+
+#headerTop{
+  height:0.44rem;
+  width:100%;
+  background: $orageColor;
+  text-align: center;
+  color: $wriColor;
+  line-height: 44px;
+  font-size:0.2rem;
+
+  .goodWord{
+    margin-left:0.1rem;
+    font-size: 0.18rem;
+    font-weight: 600;
+  }
+
+}
+
+/*footer*/
+.ulNav{
+  width:100%;
+  height:0.44rem;
+  display: flex;
+  font-size: 0.12rem;
+  text-align: center;
+  //position: fixed;
+  //bottom: 0;
+  border-top:1px solid $orageColor;
+  li{
+    flex: 1;
+    background: $wriColor;
+    padding-top:0.04rem;
+    border-right: 1px solid $orageColor;
+    .linkFont{
+      color: $orageColor;
+      display: block;
+      .icon{
+        font-size:0.2rem;
+        font-weight: 700;
+      }
+    }
+  }
+  li:nth-last-of-type(1){
+    border-right:none;
+  }
+  .active{
+    background:$orageColor;
+    .linkFont{
+      color:$wriColor;
+    }
+  }
+
+}
+
+
+.mainView{
+  height:100%;
+  font-size:0.14rem;
+  display: flex;
+  flex-direction: column;
+  .main{
+    flex:1;
+    overflow-y: hidden;
+  }
+}
+
+

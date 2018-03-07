@@ -1,0 +1,40 @@
+[{
+  "num":"1",
+  "name":"哈小丫",
+  "postOfDuty":"优质保姆",
+  "age":"25",
+  "six":"女",
+  "discription":"全心全意用我的爱去照顾您的小孩。",
+  "photo":"/static/image/1.png",
+  "telphone":"135-1829-1625",
+  "score":5.0,
+  "wechat":"1258625666",
+  "QQ":"152815656",
+  "price":"200/天"
+},{
+  "num":"2",
+  "name":"马小丫",
+  "postOfDuty":"优质保姆",
+  "age":"25",
+  "six":"女",
+  "discription":"全心全意用我的爱去照顾您的小孩。",
+  "photo":"/static/image/1.png",
+  "telphone":"135-1829-1625",
+  "score":5.0,
+  "wechat":"1258625666",
+  "QQ":"152815656",
+  "price":"70/小时"
+},{
+  "num":"3",
+  "name":"王小丫",
+  "postOfDuty":"优质保姆",
+  "age":"25",
+  "six":"女",
+  "discription":"全心全意用我的爱去照顾您的小孩。",
+  "photo":"/static/image/1.png",
+  "telphone":"135-1829-1625",
+  "score":5.0,
+  "wechat":"1258625666",
+  "QQ":"152815656",
+  "price":"70/小时"
+}]

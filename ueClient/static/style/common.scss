@@ -1,0 +1,70 @@
+//reset style
+body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table,fieldset,legend{margin:0; padding:0;}
+ul,li,ol{list-style:none;}
+img,fieldset{border:0; }
+img{display:block;}
+a{text-decoration:none; color:#333;}
+h1,h2,h3,h4,h5,h6{font-weight:100;}
+input,a{outline:none;}
+
+//rem布局，iPhone 5
+html{
+  font-size:31.25vw; //5s  100px/640*20
+}
+*{
+  box-sizing: border-box;
+ }
+i{
+  margin-right: 0.05rem;
+}
+.fl{
+  float: left;
+}
+.fr{
+  float: right;
+}
+.clearFloat{
+
+}
+.main{
+  color: #464646;
+}
+.clearFloat:after{
+  content:".";
+  display:block;
+  height:0;
+  clear:both;
+  overflow:hidden;
+  visibility:hidden;
+}
+.colorOrg{
+  color:#f8965b;
+}
+.colorBlue{
+  color: #007aff;
+}
+.colorRed{
+  color:red;
+}
+.disFlex{
+ display: flex;
+}
+.fontSize12{
+  font-size: 12px;
+}
+.fontSize14{
+  font-size: 14px;
+}
+.fontSize16{
+  font-size: 16px;
+}
+.fontSize18{
+  font-size: 18px;
+}
+.fontSize20{
+  font-size: 20px;
+}
+.fontSize22{
+  font-size: 22px;
+}
+
